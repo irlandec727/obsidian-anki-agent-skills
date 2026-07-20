@@ -1,4 +1,4 @@
-# obsidian-anki-agent-skills
+ # obsidian-anki-agent-skills
 
 Два скилла для ИИ-агента Claude Code, которыми я
 пользуюсь каждый день для собственной учёбы (Python, SQL, английский):
@@ -14,9 +14,12 @@
 
 Короткое видео: агент собирает HTML-квиз из заметки Obsidian и по его итогам создает карточки в Anki.
 
-https://github.com/irlandec727/obsidian-anki-agent-skills/raw/main/media/demo.mp4
 
-<video src="https://github.com/irlandec727/obsidian-anki-agent-skills/raw/main/media/demo.mp4" controls></video>
+
+https://github.com/user-attachments/assets/78665b51-cfdb-4018-bde6-3e805a05700f
+
+
+
 
 ## Что такое «скилл» для агента
 
