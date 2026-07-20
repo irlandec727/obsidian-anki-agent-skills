@@ -10,6 +10,14 @@
 
 Это не разовые промпты, а готовые инструменты с прописанным порядком работы.
 
+## Демо
+
+Короткое видео: агент собирает HTML-квиз из заметки Obsidian и по его итогам создает карточки в Anki.
+
+https://github.com/irlandec727/obsidian-anki-agent-skills/raw/main/media/demo.mp4
+
+<video src="https://github.com/irlandec727/obsidian-anki-agent-skills/raw/main/media/demo.mp4" controls></video>
+
 ## Что такое «скилл» для агента
 
 Скилл — это инструкция для агента (файл `SKILL.md`), рядом с ней
@@ -92,10 +100,6 @@ skills/
 
 Путь к Vault в инструкциях указан как `~/path/to/your/vault` — нужно
 подставить свой.
-
-## Демо
-
-Короткое видео с прохождением квиза — скоро здесь.
 
 ## Лицензия
 
